@@ -1,0 +1,99 @@
+{
+    "name": "A-7",
+    "symmetric": {
+        "droneSpecification": [
+            {
+                "id": 0,
+                "range": 7.0,
+                "weight": 10.0,
+                "cost": 2.0
+            },
+            {
+                "id": 1,
+                "range": 7.0,
+                "weight": 10.0,
+                "cost": 2.0
+            }
+        ],
+        "vehicleCost": 1.0,
+        "depotCoordinates": {
+            "x": 0,
+            "y": 0
+        },
+        "stationCoordinates": [
+            {
+                "label": 1,
+                "x": 5.0,
+                "y": 0
+            },
+            {
+                "label": 2,
+                "x": 0.0,
+                "y": 5.0
+            },
+            {
+                "label": 3,
+                "x": 5.0,
+                "y": 5.0
+            }
+        ],
+        "clientCoordinates": [
+            {
+                "label": 4,
+                "x": 2.1,
+                "y": 0.4,
+                "delivery": 4.3,
+                "pickup": 0.2
+            },
+            {
+                "label": 5,
+                "x": 2.2,
+                "y": 3.9,
+                "delivery": 3.0,
+                "pickup": 3.4
+            },
+            {
+                "label": 6,
+                "x": 3.5,
+                "y": 2.7,
+                "delivery": 3.4,
+                "pickup": 3.0
+            },
+            {
+                "label": 7,
+                "x": 2.1,
+                "y": 3.4,
+                "delivery": 2.9,
+                "pickup": 2.0
+            },
+            {
+                "label": 8,
+                "x": 1.9,
+                "y": 0.4,
+                "delivery": 0.8,
+                "pickup": 1.6
+            },
+            {
+                "label": 9,
+                "x": 4.7,
+                "y": 3.4,
+                "delivery": 3.9,
+                "pickup": 4.4
+            },
+            {
+                "label": 10,
+                "x": 2.9,
+                "y": 1.4,
+                "delivery": 2.4,
+                "pickup": 3.6
+            },
+            {
+                "label": 11,
+                "x": 3.7,
+                "y": 3.4,
+                "delivery": 0.9,
+                "pickup": 4.3
+            }
+        ]
+    }
+}

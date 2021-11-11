@@ -1,0 +1,63 @@
+{
+    "evaluation": {
+        "dispatches": 3,
+        "droneCost": 30.99414256478156,
+        "stops": 2,
+        "totalCost": 48.06521037664703,
+        "vehicleCost": 17.071067811865476
+    },
+    "instance": "A-2",
+    "method": {
+        "name": "BRKGAv0",
+        "parameters": {
+            "bot": 0.15,
+            "generation-limit": 2147483647,
+            "pop-size": 100,
+            "rho": 0.7,
+            "seed": 1,
+            "target": 0.0,
+            "timelimit": 5.0,
+            "top": 0.2
+        }
+    },
+    "representation": {
+        "dronePath": [
+            {
+                "clientOrder": [
+                    9
+                ],
+                "droneId": 0,
+                "end": 2,
+                "start": 2
+            },
+            {
+                "clientOrder": [
+                    4,
+                    8
+                ],
+                "droneId": 1,
+                "end": 2,
+                "start": 2
+            },
+            {
+                "clientOrder": [
+                    7,
+                    5,
+                    6
+                ],
+                "droneId": 0,
+                "end": 3,
+                "start": 3
+            }
+        ],
+        "vehiclePath": [
+            2,
+            3
+        ]
+    },
+    "time": 5.0000186,
+    "validation": {
+        "feasible": true,
+        "valid": true
+    }
+}

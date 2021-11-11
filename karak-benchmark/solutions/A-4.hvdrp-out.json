@@ -1,0 +1,56 @@
+{
+    "evaluation": {
+        "dispatches": 3,
+        "droneCost": 29.266095422243875,
+        "stops": 2,
+        "totalCost": 46.337163234109354,
+        "vehicleCost": 17.071067811865476
+    },
+    "instance": "A-4",
+    "method": {
+        "name": "MIP-GRB",
+        "parameters": {
+            "timelimit": 86400.0
+        }
+    },
+    "representation": {
+        "dronePath": [
+            {
+                "clientOrder": [
+                    5,
+                    6,
+                    9
+                ],
+                "droneId": 0,
+                "end": 2,
+                "start": 3
+            },
+            {
+                "clientOrder": [
+                    8
+                ],
+                "droneId": 0,
+                "end": 2,
+                "start": 2
+            },
+            {
+                "clientOrder": [
+                    7,
+                    4
+                ],
+                "droneId": 0,
+                "end": 2,
+                "start": 2
+            }
+        ],
+        "vehiclePath": [
+            3,
+            2
+        ]
+    },
+    "time": "51.073451",
+    "validation": {
+        "feasible": true,
+        "valid": true
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "name": "D-9",
+    "symmetric": {
+        "droneSpecification": [
+            {
+                "id": 0,
+                "range": 7.0,
+                "weight": 10.0,
+                "cost": 2.0
+            },
+            {
+                "id": 1,
+                "range": 7.0,
+                "weight": 10.0,
+                "cost": 2.0
+            }
+        ],
+        "vehicleCost": 1.0,
+        "depotCoordinates": {
+            "x": 0,
+            "y": 0
+        },
+        "stationCoordinates": [
+            {
+                "label": 1,
+                "x": 5.0,
+                "y": 0
+            },
+            {
+                "label": 2,
+                "x": 10.0,
+                "y": 0
+            },
+            {
+                "label": 3,
+                "x": 15.0,
+                "y": 0
+            },
+            {
+                "label": 4,
+                "x": 20.0,
+                "y": 0
+            },
+            {
+                "label": 5,
+                "x": 0.0,
+                "y": 5.0
+            },
+            {
+                "label": 6,
+                "x": 5.0,
+                "y": 5.0
+            },
+            {
+                "label": 7,
+                "x": 10.0,
+                "y": 5.0
+            },
+            {
+                "label": 8,
+                "x": 15.0,
+                "y": 5.0
+            },
+            {
+                "label": 9,
+                "x": 20.0,
+                "y": 5.0
+            },
+            {
+                "label": 10,
+                "x": 0.0,
+                "y": 10.0
+            },
+            {
+                "label": 11,
+                "x": 5.0,
+                "y": 10.0
+            },
+            {
+                "label": 12,
+                "x": 10.0,
+                "y": 10.0
+            },
+            {
+                "label": 13,
+                "x": 15.0,
+                "y": 10.0
+            },
+            {
+                "label": 14,
+                "x": 20.0,
+                "y": 10.0
+            },
+            {
+                "label": 15,
+                "x": 0.0,
+                "y": 15.0
+            },
+            {
+                "label": 16,
+                "x": 5.0,
+                "y": 15.0
+            },
+            {
+                "label": 17,
+                "x": 10.0,
+                "y": 15.0
+            },
+            {
+                "label": 18,
+                "x": 15.0,
+                "y": 15.0
+            },
+            {
+                "label": 19,
+                "x": 20.0,
+                "y": 15.0
+            },
+            {
+                "label": 20,
+                "x": 0.0,
+                "y": 20.0
+            },
+            {
+                "label": 21,
+                "x": 5.0,
+                "y": 20.0
+            },
+            {
+                "label": 22,
+                "x": 10.0,
+                "y": 20.0
+            },
+            {
+                "label": 23,
+                "x": 15.0,
+                "y": 20.0
+            },
+            {
+                "label": 24,
+                "x": 20.0,
+                "y": 20.0
+            }
+        ],
+        "clientCoordinates": [
+            {
+                "label": 25,
+                "x": 0.2,
+                "y": 6.2,
+                "delivery": 4.4,
+                "pickup": 1.5
+            },
+            {
+                "label": 26,
+                "x": 13.7,
+                "y": 0.3,
+                "delivery": 3.6,
+                "pickup": 2.5
+            },
+            {
+                "label": 27,
+                "x": 2.4,
+                "y": 12.2,
+                "delivery": 0.9,
+                "pickup": 4.7
+            },
+            {
+                "label": 28,
+                "x": 2.7,
+                "y": 8.2,
+                "delivery": 3.0,
+                "pickup": 3.7
+            },
+            {
+                "label": 29,
+                "x": 5.3,
+                "y": 16.6,
+                "delivery": 4.0,
+                "pickup": 1.6
+            },
+            {
+                "label": 30,
+                "x": 3.9,
+                "y": 6.9,
+                "delivery": 4.6,
+                "pickup": 1.3
+            },
+            {
+                "label": 31,
+                "x": 14.0,
+                "y": 11.8,
+                "delivery": 4.3,
+                "pickup": 0.2
+            },
+            {
+                "label": 32,
+                "x": 0.5,
+                "y": 18.6,
+                "delivery": 3.9,
+                "pickup": 1.6
+            },
+            {
+                "label": 33,
+                "x": 9.4,
+                "y": 18.6,
+                "delivery": 0.7,
+                "pickup": 1.7
+            },
+            {
+                "label": 34,
+                "x": 19.2,
+                "y": 2.4,
+                "delivery": 3.7,
+                "pickup": 2.6
+            },
+            {
+                "label": 35,
+                "x": 1.3,
+                "y": 14.5,
+                "delivery": 0.9,
+                "pickup": 2.5
+            },
+            {
+                "label": 36,
+                "x": 2.2,
+                "y": 15.9,
+                "delivery": 1.4,
+                "pickup": 3.5
+            },
+            {
+                "label": 37,
+                "x": 18.0,
+                "y": 7.9,
+                "delivery": 4.7,
+                "pickup": 1.4
+            },
+            {
+                "label": 38,
+                "x": 8.1,
+                "y": 4.3,
+                "delivery": 0.5,
+                "pickup": 1.3
+            },
+            {
+                "label": 39,
+                "x": 5.4,
+                "y": 6.9,
+                "delivery": 4.9,
+                "pickup": 0.3
+            },
+            {
+                "label": 40,
+                "x": 1.6,
+                "y": 8.1,
+                "delivery": 3.5,
+                "pickup": 2.4
+            },
+            {
+                "label": 41,
+                "x": 12.6,
+                "y": 2.6,
+                "delivery": 3.1,
+                "pickup": 2.0
+            },
+            {
+                "label": 42,
+                "x": 18.3,
+                "y": 19.3,
+                "delivery": 2.3,
+                "pickup": 2.3
+            },
+            {
+                "label": 43,
+                "x": 3.6,
+                "y": 7.8,
+                "delivery": 3.5,
+                "pickup": 2.8
+            },
+            {
+                "label": 44,
+                "x": 12.3,
+                "y": 14.7,
+                "delivery": 3.4,
+                "pickup": 1.5
+            },
+            {
+                "label": 45,
+                "x": 9.8,
+                "y": 3.5,
+                "delivery": 3.4,
+                "pickup": 2.3
+            },
+            {
+                "label": 46,
+                "x": 14.7,
+                "y": 10.6,
+                "delivery": 1.7,
+                "pickup": 1.5
+            },
+            {
+                "label": 47,
+                "x": 10.8,
+                "y": 3.2,
+                "delivery": 5.0,
+                "pickup": 4.0
+            },
+            {
+                "label": 48,
+                "x": 1.2,
+                "y": 13.3,
+                "delivery": 2.3,
+                "pickup": 2.6
+            },
+            {
+                "label": 49,
+                "x": 9.5,
+                "y": 6.1,
+                "delivery": 4.1,
+                "pickup": 1.8
+            },
+            {
+                "label": 50,
+                "x": 16.8,
+                "y": 4.5,
+                "delivery": 4.2,
+                "pickup": 3.7
+            },
+            {
+                "label": 51,
+                "x": 15.3,
+                "y": 16.9,
+                "delivery": 3.7,
+                "pickup": 1.0
+            },
+            {
+                "label": 52,
+                "x": 13.5,
+                "y": 2.0,
+                "delivery": 4.9,
+                "pickup": 2.4
+            },
+            {
+                "label": 53,
+                "x": 16.3,
+                "y": 19.8,
+                "delivery": 4.3,
+                "pickup": 4.2
+            },
+            {
+                "label": 54,
+                "x": 2.8,
+                "y": 7.8,
+                "delivery": 4.8,
+                "pickup": 0.8
+            },
+            {
+                "label": 55,
+                "x": 4.9,
+                "y": 11.6,
+                "delivery": 3.0,
+                "pickup": 0.8
+            },
+            {
+                "label": 56,
+                "x": 1.6,
+                "y": 17.9,
+                "delivery": 2.1,
+                "pickup": 3.7
+            },
+            {
+                "label": 57,
+                "x": 4.6,
+                "y": 17.1,
+                "delivery": 2.9,
+                "pickup": 0.6
+            },
+            {
+                "label": 58,
+                "x": 10.8,
+                "y": 10.8,
+                "delivery": 1.2,
+                "pickup": 2.7
+            },
+            {
+                "label": 59,
+                "x": 15.4,
+                "y": 19.3,
+                "delivery": 4.0,
+                "pickup": 4.5
+            },
+            {
+                "label": 60,
+                "x": 19.6,
+                "y": 8.3,
+                "delivery": 0.5,
+                "pickup": 1.2
+            },
+            {
+                "label": 61,
+                "x": 15.3,
+                "y": 5.1,
+                "delivery": 2.1,
+                "pickup": 0.8
+            },
+            {
+                "label": 62,
+                "x": 5.9,
+                "y": 6.8,
+                "delivery": 4.0,
+                "pickup": 2.5
+            },
+            {
+                "label": 63,
+                "x": 15.1,
+                "y": 4.8,
+                "delivery": 2.8,
+                "pickup": 3.0
+            },
+            {
+                "label": 64,
+                "x": 10.1,
+                "y": 15.8,
+                "delivery": 3.7,
+                "pickup": 4.1
+            },
+            {
+                "label": 65,
+                "x": 4.4,
+                "y": 18.9,
+                "delivery": 1.8,
+                "pickup": 2.4
+            },
+            {
+                "label": 66,
+                "x": 0.8,
+                "y": 13.2,
+                "delivery": 4.2,
+                "pickup": 3.2
+            },
+            {
+                "label": 67,
+                "x": 8.3,
+                "y": 14.3,
+                "delivery": 1.0,
+                "pickup": 1.3
+            },
+            {
+                "label": 68,
+                "x": 12.5,
+                "y": 8.8,
+                "delivery": 1.5,
+                "pickup": 4.9
+            },
+            {
+                "label": 69,
+                "x": 7.7,
+                "y": 19.4,
+                "delivery": 0.4,
+                "pickup": 0.0
+            },
+            {
+                "label": 70,
+                "x": 9.0,
+                "y": 19.9,
+                "delivery": 1.6,
+                "pickup": 2.3
+            },
+            {
+                "label": 71,
+                "x": 11.4,
+                "y": 19.3,
+                "delivery": 2.7,
+                "pickup": 3.1
+            },
+            {
+                "label": 72,
+                "x": 0.9,
+                "y": 16.6,
+                "delivery": 2.8,
+                "pickup": 2.1
+            },
+            {
+                "label": 73,
+                "x": 5.4,
+                "y": 0.6,
+                "delivery": 1.2,
+                "pickup": 1.9
+            },
+            {
+                "label": 74,
+                "x": 13.2,
+                "y": 4.6,
+                "delivery": 1.4,
+                "pickup": 0.8
+            }
+        ]
+    }
+}

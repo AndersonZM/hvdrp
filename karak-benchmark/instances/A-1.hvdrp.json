@@ -1,0 +1,85 @@
+{
+    "name": "A-1",
+    "symmetric": {
+        "droneSpecification": [
+            {
+                "id": 0,
+                "range": 7.0,
+                "weight": 10.0,
+                "cost": 2.0
+            },
+            {
+                "id": 1,
+                "range": 7.0,
+                "weight": 10.0,
+                "cost": 2.0
+            }
+        ],
+        "vehicleCost": 1.0,
+        "depotCoordinates": {
+            "x": 0,
+            "y": 0
+        },
+        "stationCoordinates": [
+            {
+                "label": 1,
+                "x": 5.0,
+                "y": 0
+            },
+            {
+                "label": 2,
+                "x": 0.0,
+                "y": 5.0
+            },
+            {
+                "label": 3,
+                "x": 5.0,
+                "y": 5.0
+            }
+        ],
+        "clientCoordinates": [
+            {
+                "label": 4,
+                "x": 3.5,
+                "y": 2.5,
+                "delivery": 2.9,
+                "pickup": 5.0
+            },
+            {
+                "label": 5,
+                "x": 1.9,
+                "y": 4.2,
+                "delivery": 4.0,
+                "pickup": 4.8
+            },
+            {
+                "label": 6,
+                "x": 0.1,
+                "y": 4.1,
+                "delivery": 4.4,
+                "pickup": 3.7
+            },
+            {
+                "label": 7,
+                "x": 2.6,
+                "y": 2.6,
+                "delivery": 4.7,
+                "pickup": 1.6
+            },
+            {
+                "label": 8,
+                "x": 2.3,
+                "y": 4.3,
+                "delivery": 0.3,
+                "pickup": 1.2
+            },
+            {
+                "label": 9,
+                "x": 4.0,
+                "y": 4.8,
+                "delivery": 4.8,
+                "pickup": 2.3
+            }
+        ]
+    }
+}
